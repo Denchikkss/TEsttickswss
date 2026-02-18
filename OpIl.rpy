@@ -215,3 +215,7 @@ label Nu_da_prolog_2:
     th "{font=mods/test/fonts/Baskerville Bold Italic.ttf}{color=#FFFFFF}{size=35} ЧТО? КАК? {/font}{/color}{/size}"
     vr "{font=mods/test/fonts/Baskerville Bold Italic.ttf}{color=#FFFFFF}{size=35} Вы не поверите… {/font}{/color}{/size}"
     "{font=mods/test/fonts/Baskerville Bold Italic.ttf}{color=#FFFFFF}{size=35} Сказал я с вырвавшимся смешком. {/font}{/color}{/size}"
+	egeedgqgqgqgjhbifgqhbfwFBHFWF
+	FWQWGWQGWGQEGE
+	"{font=mods/test/fonts/Baskerville Bold Italic.ttf}{color=#FFFFFF}{size=35} Сказал я с вырвавшимся смешком. {/font}{/color}{/size}"
+	egeedgqgqgqgjhbifgqhbfwFBHFWF
