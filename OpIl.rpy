@@ -219,3 +219,6 @@ label Nu_da_prolog_2:
 	FWQWGWQGWGQEGE
 	"{font=mods/test/fonts/Baskerville Bold Italic.ttf}{color=#FFFFFF}{size=35} Сказал я с вырвавшимся смешком. {/font}{/color}{/size}"
 	egeedgqgqgqgjhbifgqhbfwFBHFWF
+	fffffff
+	ffffffffff
+	ff
